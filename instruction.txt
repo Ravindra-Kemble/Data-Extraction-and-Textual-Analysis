@@ -1,0 +1,10 @@
+How I approched the solution?
+first we need to scrape data which is required by using bs4 Beautiful soup.
+Saved the scraped data in text format.
+After that I use Natural Language Toolkit for performing Textual Analysis.
+first I tokenized the word from text file and after that I removed the words that no need while performing Analysis.
+According to the Text_analysis.docx I finded all the variables
+And Saved to Output Data.csv
+
+How to run file to generate output?
+It will automatically scarpe all the URL's and convert saved to Output File
